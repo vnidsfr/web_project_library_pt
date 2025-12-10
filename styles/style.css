@@ -151,7 +151,6 @@
   height: 100%;
   display: flex;
   flex-direction: column;
-  padding-left: 10px;
 }
 
 .card__title {
